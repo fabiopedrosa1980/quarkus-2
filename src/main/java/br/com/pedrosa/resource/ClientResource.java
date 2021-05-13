@@ -1,4 +1,4 @@
-package br.com.pedrosa;
+package br.com.pedrosa.resource;
 
 import br.com.pedrosa.domain.Client;
 
